@@ -5,8 +5,8 @@
   "description": "Makes JAR files.",
   "content": [
     {
-      "type": "path",
-      "value": "target\\compile\\.jar"
+      "type": "url",
+      "value": "https://github.com/SirMathhman/Scaffold-JAR/releases/download/0.1/default.jar"
     }
   ],
   "dependencies": [
