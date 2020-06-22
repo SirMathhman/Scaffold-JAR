@@ -5,14 +5,14 @@
   "description": "Makes JAR files.",
   "content": [
     {
-      "type": "url",
-      "value": "https://github.com/SirMathhman/Scaffold-JAR/releases/download/0.1/default.jar"
+      "type": "path",
+      "value": "target\\compile\\.jar"
     }
   ],
   "dependencies": [
     {
       "type": "url",
-      "value": "https://github.com/SirMathhman/Scaffold-Java-Compile/releases/download/0.1/module.json"
+      "value": "https://github.com/SirMathhman/Scaffold-Java-Compile/releases/download/0.2/module.json"
     }
   ],
   "install": []}
